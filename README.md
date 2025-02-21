@@ -17,7 +17,7 @@ Bu **Ruby** uygulaması, belirli bir konumun anlık hava durumu bilgilerini geti
 
 ### 🛠 **1. Depoyu klonlayın:**
 ```sh
- git clone https://github.com/kullaniciadi/havadurumu.git
+ git clone https://github.com/jovialpiglet/havadurumu.git
  cd havadurumu
 ```
 
