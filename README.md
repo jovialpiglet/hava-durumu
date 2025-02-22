@@ -55,7 +55,7 @@ Uygulamayı başlatmak için aşağıdaki komutu çalıştırın:
 
 ## 📜 **Lisans**
 
-📄 Bu proje **MIT lisansı** ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
+📄 Bu proje **MIT lisansı** ile lisanslanmıştır.
 
 ---
 
